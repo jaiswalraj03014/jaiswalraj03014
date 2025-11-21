@@ -174,6 +174,7 @@ graph LR
 2. **Rapid Prototyping** → Quick iterations to validate ideas
 3. **Production Focus** → Code that handles real users and real scenarios
 4. **Continuous Learning** → Every project is an opportunity to grow
+5. **Organization-First** → Centralizing projects within organizations for structured management and governance.
 
 ---
 
