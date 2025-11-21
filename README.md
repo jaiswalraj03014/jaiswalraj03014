@@ -56,10 +56,8 @@ const AAKASH = {
 
 ## PORTFOLIO HIGHLIGHTS
 
-<div align="center">
 
-
-## 🛠️ TECHNICAL ARSENAL
+##  TECHNICAL ARSENAL
 
 
 ###  WHAT I USE TO BUILD
@@ -107,7 +105,7 @@ tech_stack = {
 <table>
 <tr>
 <td width="50%">
-
+<div align="center">
 ### RUST FOR WEB3
 **Building high-performance blockchain apps**
 
