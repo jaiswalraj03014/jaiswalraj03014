@@ -101,11 +101,10 @@ tech_stack = {
 ---
 
 ## CURRENT RESEARCH & LEARNING
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
-<div align="center">
 ### RUST FOR WEB3
 **Building high-performance blockchain apps**
 
