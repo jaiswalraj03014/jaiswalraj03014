@@ -105,6 +105,7 @@ tech_stack = {
 <table>
 <tr>
 <td width="50%">
+    
 ### RUST FOR WEB3
 **Building high-performance blockchain apps**
 
@@ -124,7 +125,7 @@ Training LLMs via RL to:
 - Update autonomously
 - Adapt to new data
 
-[📄 Research Paper](https://arxiv.org/pdf/2506.10943) | [💻 Implementation](https://github.com/Continual-Intelligence/SEAL)
+[Research Paper](https://arxiv.org/pdf/2506.10943) | [Implementation](https://github.com/Continual-Intelligence/SEAL)
 
 </td>
 </tr>
