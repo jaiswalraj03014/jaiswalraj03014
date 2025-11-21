@@ -192,7 +192,7 @@ graph LR
 
 [![Twitter](https://img.shields.io/badge/TWITTER-@Aakash__jais03-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/Aakash_jais03)
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://itsmesky.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit_Now-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://itsmesky.com)
 
 
 <br>
