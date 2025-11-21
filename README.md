@@ -10,7 +10,7 @@
 ║                      ██║  ██║██║  ██║██║  ██╗██║  ██║███████║██║  ██║      ║
 ║                      ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝      ║
 ║                                                                              ║
-║               AI & WEB3 ARCHITECT & DEVELOPER                                ║
+║                       AI & WEB3 ARCHITECT & DEVELOPER                        ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -21,7 +21,7 @@
 
 ### Building The Decentralised Autonomous Future
 
-[![Portfolio](https://img.shields.io/badge/_PORTFOLIO-LIVE-00ff88?style=for-the-badge&labelColor=000000)](https://itsmesky.com)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-LIVE-00ff88?style=for-the-badge&labelColor=000000)](https://itsmesky.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-jaiswal-773bb9244)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aakash_jais03)
 
@@ -64,7 +64,7 @@ const AAKASH = {
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 🔗 [TRIGSLINK](https://trigs.link)
 **Decentralized MCP Network**
@@ -81,7 +81,7 @@ The first **truly decentralized** network enabling AI agents to access on-chain 
 🔴 **LIVE IN PRODUCTION**
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 🧠 [SENOVA AI](https://senova.in)
 **Cognitive Wellness Platform**
@@ -98,7 +98,8 @@ AI platform combating **cognitive debt** with empathetic, research-backed guidan
 🔴 **LIVE IN PRODUCTION**
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
 
 ---
 
@@ -139,7 +140,7 @@ tech_stack = {
     "devops": {
         "containers": ["Docker", "Kubernetes"],
         "ci_cd": ["GitHub Actions", "Jenkins"],
-        "cloud": ["AWS", "GCP", "Vercel", "Google CLOUD"]
+        "cloud": ["AWS", "GCP", "Vercel", "Google Cloud"]
     }
 }
 ```
@@ -206,7 +207,6 @@ graph LR
 3. **Production Focus** → Code that handles real users and real scenarios
 4. **Continuous Learning** → Every project is an opportunity to grow
 
-
 ---
 
 <div align="center">
@@ -221,7 +221,7 @@ graph LR
 
 [![Twitter](https://img.shields.io/badge/🐦_TWITTER-@Aakash__jais03-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aakash_jais03)
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00ff88?style=for-the-badge&labelColor=000000)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00ff88?style=for-the-badge&labelColor=000000)](https://itsmesky.com)
 
 <br>
 
