@@ -58,50 +58,6 @@ const AAKASH = {
 
 <div align="center">
 
-### PRODUCTION SYSTEMS I'VE BUILT
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔗 [TRIGSLINK](https://trigs.link)
-**Decentralized MCP Network**
-
-The first **truly decentralized** network enabling AI agents to access on-chain context without gatekeepers.
-
-**Impact:**
-- ✅ No API keys, no rate limits
-- ✅ Powered by $AVAX & Chainlink
-- ✅ Production-ready infrastructure
-
-**Tech:** `Ethereum` `Python` `IPFS` `Chainlink` `Solidity` `FastAPI` `OpenAI`
-
-🔴 **LIVE IN PRODUCTION**
-
-</td>
-<td width="50%" valign="top">
-
-#### [SENOVA AI](https://senova.in)
-**Cognitive Wellness Platform**
-
-AI platform combating **cognitive debt** with empathetic, research-backed guidance.
-
-**Impact:**
-- ✅ Chrome extension deployed
-- ✅ Real users, real feedback
-- ✅ Gamified wellness tracking
-
-**Tech:** `Gemini` `LangChain` `FastAPI` `React`
-
-🔴 **LIVE IN PRODUCTION**
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ TECHNICAL ARSENAL
 
