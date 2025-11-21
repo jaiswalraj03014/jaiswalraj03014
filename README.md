@@ -158,7 +158,7 @@ graph LR
 
 
 
-    classDef neonGreen fill:#1a1a1a,stroke:#00ff9d,stroke-width:2px,color:#fff;
+    classDef neonGreen fill:#111111,stroke:#02f744,stroke-width:2px,color:#fff;
 
 
 
