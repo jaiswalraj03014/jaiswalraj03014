@@ -139,20 +139,32 @@ Training LLMs via RL to:
 <div align="center">
     
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#00ff00', 'background': '#000000', 'mainBkg': '#000000', 'edgeLabelBackground':'#000000', 'tertiaryColor': '#000000'}}}%%
+
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#2b2b2b', 'edgeLabelBackground':'#1f1f1f', 'tertiaryColor': '#1f1f1f'}}}%%
+
 graph LR
+
     A[Problem] -->|Research| B[Architecture]
+
     B -->|Prototype| C[MVP]
+
     C -->|Test| D[Iterate]
+
     D -->|Deploy| E[Production]
+
     E -->|Monitor| F[Scale]
+
     F -->|Improve| D
 
-    %% Define a single "hacking green" style for all nodes
-    classDef hackingGreen fill:#003300,stroke:#00ff00,stroke-width:2px,color:#00ff00;
 
-    %% Apply the new style to all nodes
-    class A,B,C,D,E,F hackingGreen
+
+    classDef neonGreen fill:#1a1a1a,stroke:#00ff9d,stroke-width:2px,color:#fff;
+
+
+
+
+    class A,B,C,D,E,F neonGreen
+
 ```
 </div>
 
