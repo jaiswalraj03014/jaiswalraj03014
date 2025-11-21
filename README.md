@@ -182,9 +182,7 @@ Training LLMs via RL to:
 
 ## MY DEVELOPMENT PHILOSOPHY
 
-<div align="center">
-
-```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#2b2b2b', 'edgeLabelBackground':'#1f1f1f', 'tertiaryColor': '#1f1f1f'}}}%%
 graph LR
     A[Problem] -->|Research| B[Architecture]
     B -->|Prototype| C[MVP]
@@ -192,11 +190,16 @@ graph LR
     D -->|Deploy| E[Production]
     E -->|Monitor| F[Scale]
     F -->|Improve| D
-    
-    style A fill:#ff3366
-    style E fill:#00ff88
-    style F fill:#00ccff
-```
+
+    classDef neonPink fill:#1a1a1a,stroke:#ff007f,stroke-width:2px,color:#fff;
+    classDef neonBlue fill:#1a1a1a,stroke:#00e5ff,stroke-width:2px,color:#fff;
+    classDef neonGreen fill:#1a1a1a,stroke:#00ff9d,stroke-width:2px,color:#fff;
+    classDef neonPurp fill:#1a1a1a,stroke:#bf00ff,stroke-width:2px,color:#fff;
+
+    class A,B neonPink
+    class C,D neonBlue
+    class E neonGreen
+    class F neonPurp
 
 </div>
 
