@@ -182,6 +182,9 @@ Training LLMs via RL to:
 
 ## MY DEVELOPMENT PHILOSOPHY
 
+<div align="center">
+    
+```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#2b2b2b', 'edgeLabelBackground':'#1f1f1f', 'tertiaryColor': '#1f1f1f'}}}%%
 graph LR
     A[Problem] -->|Research| B[Architecture]
@@ -200,7 +203,7 @@ graph LR
     class C,D neonBlue
     class E neonGreen
     class F neonPurp
-
+```
 </div>
 
 ### How I Build:
