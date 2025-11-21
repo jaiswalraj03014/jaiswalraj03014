@@ -29,7 +29,7 @@
 
 ---
 
-## 🎯 WHO AM I?
+## WHO AM I?
 
 ```typescript
 const AAKASH = {
@@ -54,11 +54,11 @@ const AAKASH = {
 
 ---
 
-## 💼 PORTFOLIO HIGHLIGHTS
+## PORTFOLIO HIGHLIGHTS
 
 <div align="center">
 
-### 🌟 PRODUCTION SYSTEMS I'VE BUILT
+### PRODUCTION SYSTEMS I'VE BUILT
 
 </div>
 
@@ -83,7 +83,7 @@ The first **truly decentralized** network enabling AI agents to access on-chain 
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 [SENOVA AI](https://senova.in)
+#### [SENOVA AI](https://senova.in)
 **Cognitive Wellness Platform**
 
 AI platform combating **cognitive debt** with empathetic, research-backed guidance.
@@ -107,7 +107,7 @@ AI platform combating **cognitive debt** with empathetic, research-backed guidan
 
 <div align="center">
 
-### ⚙️ WHAT I USE TO BUILD
+###  WHAT I USE TO BUILD
 
 </div>
 
@@ -147,13 +147,13 @@ tech_stack = {
 
 ---
 
-## 🎓 CURRENT RESEARCH & LEARNING
+## CURRENT RESEARCH & LEARNING
 
 <table>
 <tr>
 <td width="50%">
 
-### 🦀 RUST FOR WEB3
+### RUST FOR WEB3
 **Building high-performance blockchain apps**
 
 - Solana program development
@@ -164,7 +164,7 @@ tech_stack = {
 </td>
 <td width="50%">
 
-### 📚 MIT SEAL FRAMEWORK
+### MIT SEAL FRAMEWORK
 **Self-evolving LLM systems**
 
 Training LLMs via RL to:
@@ -180,7 +180,7 @@ Training LLMs via RL to:
 
 ---
 
-## 💡 MY DEVELOPMENT PHILOSOPHY
+## MY DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
@@ -200,7 +200,7 @@ graph LR
 
 </div>
 
-### 🚀 How I Build:
+### How I Build:
 
 1. **Deep Research** → Understanding the problem before coding
 2. **Rapid Prototyping** → Quick iterations to validate ideas
@@ -211,7 +211,7 @@ graph LR
 
 <div align="center">
 
-## 📞 LET'S CONNECT
+## LET'S CONNECT
 
 <br>
 
@@ -225,7 +225,7 @@ graph LR
 
 <br>
 
-### 💬 INSPIRATION
+### HALL OF FAME
 
 > *"If you don't believe me or don't get it, I don't have time to try to convince you, sorry."*  
 > — **Satoshi Nakamoto**
