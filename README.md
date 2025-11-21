@@ -61,7 +61,6 @@ const AAKASH = {
 
 ## 🛠️ TECHNICAL ARSENAL
 
-<div align="center">
 
 ###  WHAT I USE TO BUILD
 
