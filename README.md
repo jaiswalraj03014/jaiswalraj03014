@@ -167,7 +167,7 @@ graph LR
 
 ```
 </div>
-
+<div align="start">
 ### How I Build:
 
 1. **Deep Research** → Understanding the problem before coding
