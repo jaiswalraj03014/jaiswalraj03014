@@ -21,9 +21,10 @@
 
 ### Building The Decentralised Autonomous Future
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-LIVE-00ff88?style=for-the-badge&labelColor=000000)](https://itsmesky.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-jaiswal-773bb9244)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aakash_jais03)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-LIVE-000000?style=for-the-badge&labelColor=000000&logoColor=white)](https://itsmesky.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/aakash-jaiswal-773bb9244)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/Aakash_jais03)
+
 
 </div>
 
