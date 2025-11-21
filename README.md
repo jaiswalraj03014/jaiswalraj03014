@@ -175,13 +175,15 @@ graph LR
 
 <br>
 
-[![Email](https://img.shields.io/badge/📧_EMAIL-jaiswalraj03014@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswalraj03014@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-jaiswalraj03014@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:jaiswalraj03014@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Aakash_Jaiswal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-jaiswal-773bb9244)
 
-[![Twitter](https://img.shields.io/badge/🐦_TWITTER-@Aakash__jais03-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aakash_jais03)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Aakash_Jaiswal-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/aakash-jaiswal-773bb9244)
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00ff88?style=for-the-badge&labelColor=000000)](https://itsmesky.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-@Aakash__jais03-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/Aakash_jais03)
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://itsmesky.com)
+
 
 <br>
 
