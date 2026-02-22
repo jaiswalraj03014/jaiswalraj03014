@@ -36,7 +36,7 @@
 const AAKASH = {
     location: "India 🇮🇳",
     current_role: "AI & Web3 Developer",
-    expertise: ["Agentic AI Systems", "Blockchain Development", "DeFi Protocols"],
+    expertise: ["Agentic AI Systems", " Machine learning", "deep learning", "Convultional Neural Network", "Blockchain Development", "DeFi Protocols"],
     focus: "Building decentralized AI agents that actually work",
     
     philosophy: {
